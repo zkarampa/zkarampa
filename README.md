@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://imgs.xkcd.com/comics/security.png "Logo Title Text 1")
+![How to write good code](https://imgs.xkcd.com/comics/good_code.png)
 
 
 
